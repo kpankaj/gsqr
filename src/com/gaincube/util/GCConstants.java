@@ -10,7 +10,7 @@ package com.gaincube.util;
  * @author Pankaj
  */
 public class GCConstants {
-        public static final String startDate = "10/16/2008";
+        public static final String startDate = "10/16/2009";
         public static final String endDate = "2/16/2010";
         public static final boolean endFlag = false;
 
@@ -19,7 +19,8 @@ public class GCConstants {
         public static float yOffSet = 2;
         public static float xOffset = 5;
         
-        public static final boolean drawDownTrend =false;
+        public static final boolean drawDownTrend =false
+        		;
         public static final boolean drawDownTrendBySlope =false;
         
         public static final boolean drawUpTrend =true;
