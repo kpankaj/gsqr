@@ -43,14 +43,14 @@ public class GainCube extends Applet implements MouseListener
     
     boolean initFlag = false;
     
-    int xSize = 1250;
-    int ySize = 830;
+    int xSize = 1350;
+    int ySize = 630;
     
     float xOffset = 0;
     float yOffset = 0;
 
-    int width = 1250;
-    int height = 850;
+    int width = 1450;
+    int height = 750;
     
     double minX = 0;
     double minY = 0;
